@@ -50,3 +50,12 @@ run text_visualization_221129.ipynb
 evaluate model based on IOU, AUPRC, comprehensiveness, sufficiency
 
 run IOU_AUPRC.ipynb and comprehensiveness_sufficiency.ipynb
+
+### note
+
+you can download best perfomance model in our projects at https://drive.google.com/file/d/1qUVLtnKgQlh2SRX1s8EEYm96it7Okix0/view?usp=share_link
+
+and its generated explanation is amazon_book_expl-transformer_attribution-binaryclassification_only10000.npy
+
+using these, you can directly do generating explanation stage or visualization stage
+
